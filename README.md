@@ -44,6 +44,8 @@
 - **Oscilloscope** : Visualisation des signaux électriques (en particulier pour l'électronique analogique).
 - **Générateur de signal** : Génère des signaux pour tester les circuits.
 
+Coming Soon 
+
 ## 6. [Électronique Analogique](./THEORY/PART_05.md)
 
 - **Amplificateurs opérationnels (op-amp)** : Composants utilisés pour amplifier les signaux.
