@@ -87,11 +87,14 @@ Coming Soon
 
 ## Partie 01 : Pratique
 
-- [Lab_00.md](./LABS/LAB_00.md)
-- [Lab_01.md]()
-- [Lab_02.md]()
-- [Lab_03.md]()
-- [Lab_04.md]()
+- [Lab_00](./LABS/LAB_00.md)
+- [Lab_01]()
+
+Coming Soon
+
+- [Lab_02]()
+- [Lab_03]()
+- [Lab_04]()
 
 **Other Labs : Coming Soon**
 
