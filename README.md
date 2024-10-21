@@ -88,7 +88,7 @@ Coming Soon
 ## Partie 01 : Pratique
 
 - [Lab_00](./LABS/LAB_00.md)
-- [Lab_01]()
+- [Lab_01](./LABS/LAB_01.md)
 
 Coming Soon
 

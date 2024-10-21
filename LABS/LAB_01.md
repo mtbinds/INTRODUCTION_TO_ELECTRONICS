@@ -184,6 +184,13 @@ Les **transistors** amplifient ou commutent des signaux électroniques.
 
 ---
 
+### 5.6 Rendu
+
+- Veuillez déposer un rapport (.pdf) de 1 à 2 pages (avec des captures d'écran) sur [ce lien](https://classroom.google.com/c/NzI2MDY1NzU3NDc4?cjc=dh5ats4). 
+
+- N'oubliez pas de mentionner votre ***Prénom/Nom***.
+---
+
 ## Conclusion
 
 Ce TP vous a permis d'explorer les composants de base de l'électronique à travers des simulations pratiques. En observant les comportements des résistances, condensateurs, inductances, diodes et transistors, vous avez acquis une compréhension essentielle de leur fonctionnement et de leurs applications dans les circuits électroniques.
