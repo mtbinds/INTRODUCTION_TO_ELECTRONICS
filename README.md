@@ -85,11 +85,11 @@
 
 ## Partie 01 : Pratique
 
-[Lab_00.md]()
-[Lab_01.md]()
-[Lab_02.md]()
-[Lab_03.md]()
-[Lab_04.md]()
+- [Lab_00.md](./LABS/LAB_00.md)
+- [Lab_01.md]()
+- [Lab_02.md]()
+- [Lab_03.md]()
+- [Lab_04.md]()
 
 **Other Labs : Coming Soon**
 
